@@ -1,0 +1,163 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: calibri;
+}
+body{
+  background-repeat: no-repeat;
+   background-size: contain;
+}
+li {
+    float: left;
+    margin: 0px 15px 0px 15px;
+}
+
+.menu {
+    text-decoration: none;
+    display: flex;
+}
+
+.menu-link {
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: red;
+}
+
+
+.banner {
+    display: flex;
+    margin-left: 90px;
+    margin-bottom: 135px;
+}
+
+.player {
+    float: right;
+    margin-right: 105px;
+    margin-left: auto;
+    margin-top: 65px;
+}
+
+
+.banner-text {
+    margin-top: 80px;
+}
+
+p.mtdaytext {
+    font-size: 70px;
+}
+
+button {
+    background-color: #fc0a7e;
+    border: 0px;
+    height: 60px;
+    width: 170px;
+    font-size: 18px;
+    border-radius: 30px;
+}
+
+
+.banner2 {
+    background-color: #1b1b1b;
+
+}
+
+.text1 {
+    padding-top: 30px;
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 45px;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.section2 {
+    margin: 0px 0px 0px 0px;
+    background-color: #1b1b1b;
+    padding: 0px;
+}
+
+.sponsor {
+    justify-content: center;
+    width: 600px;
+    height: 150px;
+}
+
+.section3 {
+    background-color: #619553;
+    display: flex;
+    padding-top: 0px;
+    align-items: center;
+    justify-content: center;
+}
+
+.end {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: #1b1b1b;
+    padding-top: 1px;
+}
+
+
+.lstlogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.socialmedia {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.socialmedia p {
+    margin: 20px;
+    color: grey;
+    font-size: 15px;
+}
+
+.socialmedia a {
+    color: grey;
+    text-decoration: none;
+}
+
+.socialmedia a:hover {
+    color: white;
+}
+
+#rr-image {
+    height: 544px;
+    margin-left: 45px;
+}
+
+#header {
+    display: flex;
+    height: 100px;
+}
+
+#logo {
+    width: 220px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+#menudiv {
+    float: right;
+    margin-left: auto;
+    margin-right: 90px;
+    margin-top: 55px;
+}
